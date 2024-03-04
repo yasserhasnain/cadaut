@@ -1,15 +1,15 @@
 {
 	"blog": {
-		"blogger_id": "995749235069124390",
+		"blogger_id": "6604453588146419218",
 		"api_key": "AIzaSyAHggh5fR9GX5FP3hiZw3NtW6BqzwhTTgU"
 	},
 	"app": {
-		"status": true,
+		"status": false,
 		"custom_label_list": false,
 		"report_email": "appsmakers2021@gmail.com",
 		"more_apps_url": "https://play.google.com/store/apps/dev?id=7872668932518858929",
 		"privacy_policy_url": "https://sites.google.com/view/appsmakers/innovational-apps-privacy-policy",
-		"redirect_url": ""
+		"redirect_url": "https://play.google.com/store/apps/details?id=com.EntertainmentHub.AutoCadGuru"
 	},
 	"ads": {
 		"ad_status": true,
